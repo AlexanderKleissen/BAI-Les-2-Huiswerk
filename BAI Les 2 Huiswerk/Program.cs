@@ -46,7 +46,7 @@ namespace BAI_Les_2_Huiswerk
                 Console.WriteLine($"Studenten moeten in totaal {distance*5}km reizen om bij {Cities[i]} te komen");
             }
             Console.WriteLine("");
-            Console.WriteLine($"In {cityResult} moet er extra les BAI gegeven worden. Bij elkaar moeten studenten {smallestDistance*5}km reizen");
+            Console.WriteLine($"In {cityResult} moet er bijlesextra BAI gegeven worden. Bij elkaar moeten studenten {smallestDistance*5}km reizen");
         }
     }
 }
