@@ -20,7 +20,7 @@ namespace BAI_Les_2_Huiswerk
                                               "assen",
                                               "rotterdam",
                                               "utrecht",
-                                              "Zwolle" 
+                                              "zwolle" 
             };
 
             calculateTheLeastDistance(distanceBetweenCities, cities);
