@@ -6,8 +6,7 @@ namespace BAI_Les_2_Huiswerk
     {
         static void Main(string[] args)
         {
-            int[,] distanceBetweenCities = new int[6, 6] { 
-                                                           { 0, 50, 135, 120, 65, 65 }, 
+            int[,] distanceBetweenCities = new int[6, 6] { { 0, 50, 135, 120, 65, 65 }, 
                                                            { 0, 50, 140, 75, 20, 70 }, 
                                                            { 135, 140, 0, 220, 170, 75 }, 
                                                            { 120, 75, 220, 0, 55, 145 },
